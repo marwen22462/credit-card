@@ -1,0 +1,40 @@
+.output {
+  float: left;
+  background-image: url(./img/Background.jpg);
+  width: 590px;
+  height: 300px;
+}
+.puce {
+    width: 40px;
+    margin-left: -500px;
+    margin-top: 80px;
+}
+.output-number{
+    color: white;
+    font-size: 30px;
+    margin-right: 100px;
+    margin-left: 10px;
+    margin-top: 0px;
+    padding-left: 0px;
+    /* width: 100%; */
+    font-weight: 100%;
+}
+.master-card-logo{
+    width: 100px;
+    margin-left: 450px;
+    margin-top: -50px;
+}
+.output-date {
+    color: white;
+    font-size: 30px;
+    margin-left: 350px;
+    margin-right: 130px;
+    margin-top: -80px;
+
+}
+.output-name {
+    color: white;
+    font-size: 30px;
+    margin-right: 300px;
+    padding-left: 0px;
+}
